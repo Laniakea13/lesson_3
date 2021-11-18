@@ -1,2 +1,2 @@
-dve
-stroki
+dve dve
+stroki stroki
